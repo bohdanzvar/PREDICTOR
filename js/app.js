@@ -24,7 +24,7 @@
     }), 0);
     let x;
     document.getElementById("rollButton").onclick = function() {
-        x = Math.random() * 6 ;
+        x = Math.random() * 6 + 1 ;
         x = (Math.round(x * 100) / 100).toFixed(2);
         document.getElementById("xlabel").innerHTML = x;
     };
