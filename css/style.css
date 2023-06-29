@@ -248,7 +248,7 @@ h6 {
 }
 
 .no-webp .img{
-  background-image: url("../img/plane.webp"); }
+  background-image: url("../img/plane.jpeg"); }
 
 .img {
   width: 250px;
@@ -374,4 +374,4 @@ h6 {
 }
 }
 
-.webp .img{ background-image: url(../img/plane.webp); }
+.webp .img{ background-image: url(../img/plane.jpeg); }
